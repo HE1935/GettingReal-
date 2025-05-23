@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\bin\Debug\net8.0\Getting Real ()()().exe
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\bin\Debug\net8.0\Getting Real ()()().deps.json
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\bin\Debug\net8.0\Getting Real ()()().runtimeconfig.json
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\bin\Debug\net8.0\Getting Real ()()().dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\bin\Debug\net8.0\Getting Real ()()().pdb
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().AssemblyInfo.cs
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\refint\Getting Real ()()().dll
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().pdb
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\Getting Real ()()().genruntimeconfig.cache
+C:\Users\User\OneDrive\Skrivebord\Programmering 2\School projects\Getting Real ()()()\Getting Real ()()()\obj\Debug\net8.0\ref\Getting Real ()()().dll
